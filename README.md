@@ -3,7 +3,7 @@
 
 『📚』HTML5, CSS3, JavaScript, React (learning), Python (learning), SQL.
 
-『💠』I am looking to collaborate on projects to learn and find a job.
+『💠』I'm looking to collaborate on projects to learn and find a job.
 
 『📬』Send me a message on my social networks or email to collaborate
 
