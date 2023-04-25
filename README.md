@@ -7,7 +7,7 @@
 
 『📬』Send me a message on my social networks or email to collaborate
 
-### < https://www.linkedin.com/in/joseduquea/ >
+< https://www.linkedin.com/in/joseduquea/ >
  
 <!--
 **joseduquea/joseduquea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
