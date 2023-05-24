@@ -7,7 +7,7 @@
 
 『📬』Send me a message on my social networks or email to collaborate
 
-Django React HTML5 CSS3 Docker
+
 
 
  
