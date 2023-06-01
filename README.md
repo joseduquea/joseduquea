@@ -1,8 +1,9 @@
 <section align="center">
     <img align="center" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="300">
         <h1 align="center"> Hi I'm Jose Duque 👋</h1>
-        <h2 align="center">I am a Software Developer with a focus on web development full stack, 
-         seeking opportunities to gain experience, grow professionally and contribute to projects.
+        <h2 align="center">I am a software developer with a focus on full stack web development, 
+            continuously learning and seeking opportunities to gain experience, grow professionally, 
+            and contribute to projects.
         </h2>
  </section>
     
